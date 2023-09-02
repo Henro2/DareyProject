@@ -47,3 +47,9 @@ file text3 is empty , I moved the contents in myfile and text2 to text3 using  "
 
 
 ![Alt text](5.png)
+
+
+6. **cp**
+
+I use this command to relocate (myfile) to (Dareyproject)folder and using cp -R to backup 
+![Alt text](6.png)
