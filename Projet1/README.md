@@ -41,5 +41,9 @@ This command displays my folders as shown on the picture bellow
 
 5.  **cat**
 
-I Use this command to 
+I Use this command to read the content of my file . I have 3 files named myfile, text2 and text3. 
+file text3 is empty , I moved the contents in myfile and text2 to text3 using  "cat myfile.txt text2>text3"
 
+
+
+![Alt text](5.png)
