@@ -69,3 +69,20 @@ I use this command to rename my file as **text2** to **mytext2**
 I use this command to make a new directory in dareyproject directory call **mymovie**
 
 ![Alt text](images/8.png)
+
+
+9. **rmdir**
+I use this command to remove a directory i created before in DareyProject folder **mymovie**
+
+
+![Alt text](images/9.png)
+
+
+10. **rm**
+
+I use this command to delete a file in any repository. The picture bellow show how i deleted a file in DareyProject folder called **Xample**
+
+
+![Alt text](images/10.png)
+
+
