@@ -27,3 +27,19 @@ I use this command to switch to another working directory
 
 
 ![Alt text](images/3.png)
+
+
+
+4. **ls**
+
+This command displays my folders as shown on the picture bellow 
+
+![Alt text](images/4.png)
+
+
+
+
+5.  **cat**
+
+I Use this command to 
+
