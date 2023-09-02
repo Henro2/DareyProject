@@ -21,7 +21,7 @@ I use this command to switch to another working directory
 
 "cd" ..   returns me to previous directory 
 
-"cd -"    moves takes me back to Project1 directory 
+"cd -"     takes me back to Project1 directory 
 
 "cd"  returns me to home directory 
 
@@ -93,4 +93,48 @@ I use this command to create a file in any directory
 
 ![Alt text](11.png)
 
+12. **locate**
 
+
+I use this command to seach for a file named **myfile.sh** in **DareyProject** folder and to search for a file with any extension in same directory
+
+
+![Alt text](images/12.png)
+
+
+13.  find [option] [path] [expression]
+
+ I use this command to find **fyfile.sh** within my home directory 
+
+
+![Alt text](images/13.png)
+
+14. **grep**
+
+I use this command to search for a word "YOU" in **myfile.txt** 
+
+![Alt text](images/14.png)
+
+
+15 **df** (**df -m** )(**df -h**)(**df -k**)
+
+This commands check my disk usage 
+
+
+![Alt text](images/15.png)
+
+
+16. **du**
+
+This command shows me how much space my directory **DareyProject** and all the files inside takes 
+
+![Alt text](images/16.png)
+
+
+
+17. **head** 
+
+I use this comand the display the first 10 lines content in my file named text3.txt
+
+
+![Alt text](images/17.png)
