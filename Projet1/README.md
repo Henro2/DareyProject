@@ -80,9 +80,17 @@ I use this command to remove a directory i created before in DareyProject folder
 
 10. **rm**
 
-I use this command to delete a file in any repository. The picture bellow show how i deleted a file in DareyProject folder called **Xample**
+I use this command to delete a file in any folder. The picture bellow show how i deleted a file in DareyProject folder called **Xample**
 
 
 ![Alt text](images/10.png)
+
+
+11. **touch**
+
+
+I use this command to create a file in any directory 
+
+![Alt text](11.png)
 
 
