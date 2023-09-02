@@ -54,3 +54,18 @@ file text3 is empty , I moved the contents in myfile and text2 to text3 using  "
 I use this command to relocate (myfile) to (Dareyproject)folder and using cp -R to backup 
 
 ![Alt text](6.png)
+
+
+7. **mv**
+
+I use this command to rename my file as **text2** to **mytext2**
+
+
+![Alt text](images/7.png)
+
+
+8. **mkdir**
+
+I use this command to make a new directory in dareyproject directory call **mymovie**
+
+![Alt text](images/8.png)
