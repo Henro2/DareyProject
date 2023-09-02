@@ -23,7 +23,7 @@ I use this command to switch to another working directory
 
 "cd -"    moves takes me back to Project1 directory 
 
-"cd"  returns me to home home directory 
+"cd"  returns me to home directory 
 
 
 ![Alt text](images/3.png)
