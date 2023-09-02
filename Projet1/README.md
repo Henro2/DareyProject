@@ -46,15 +46,14 @@ file text3 is empty , I moved the contents in myfile and text2 to text3 using  "
 
 
 
-![Alt text](5.png)
+![Alt text](images/5.png)
 
 
 6. **cp**
 
 I use this command to relocate (myfile) to (Dareyproject)folder and using cp -R to backup 
 
-![Alt text](6.png)
-
+![Alt text](images/6.png)
 
 7. **mv**
 
@@ -91,7 +90,7 @@ I use this command to delete a file in any folder. The picture bellow show how i
 
 I use this command to create a file in any directory 
 
-![Alt text](11.png)
+![Alt text](images/11.png)
 
 12. **locate**
 
@@ -138,3 +137,25 @@ I use this comand the display the first 10 lines content in my file named text3.
 
 
 ![Alt text](images/17.png)
+
+
+
+18. **tail**
+
+I use this command to display the last 10 lines content of file named text3.txt 
+
+
+
+
+![Alt text](images/18.png)
+
+
+19.  **diff**
+
+I use this command to check the contents of my files that do match. **myfile.txt**  and **text3**. As you can see **HOW ARE U DOING** is not displayed because its in both files 
+
+![Alt text](images/19.png)
+
+
+
+20. **tar**
