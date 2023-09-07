@@ -1,16 +1,4 @@
 # Git project <!DOCTYPE html>
-<html>
-<head>
-    <style>
-        p {
-            color: blue;
-        }
-    </style>
-</head>
-<body>
-    <p>  </p>
-</body>
-</html>
 
 
 
