@@ -1,4 +1,17 @@
-#  <p style="color:blue">Git project</p>
+# Git project <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        p {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <p>  </p>
+</body>
+</html>
+
 
 
 1. I made a new directory called <font color="green">**Project2**</font> using <font color="red">**mkdir**</font> Command
