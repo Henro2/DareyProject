@@ -1,14 +1,17 @@
-1. I made a new directory called <font color="red">**Project2**</font> using <font color="red">**mkdir**</font> Command
+#  <p style="color:blue">Git project</p>
 
-2. I then switch my working directory to <font color="red">**Project2**</font> i just created
 
-3. I initialized it using the <font color="red">**Init**</font> command . Check bellow image
+1. I made a new directory called <font color="green">**Project2**</font> using <font color="red">**mkdir**</font> Command
+
+2. I then switch my working directory to <font color="yellow">**Project2**</font> i just created
+
+3. I initialized it using the <font color="brown">**Init**</font> command . Check bellow image
 
 ![Alt text](Images/1.png)
 
 4. Inside my new directory <font color="red">**Project2**</font>, I created a filed called <font color="red">**index.txt**</font>.
 
-In GUI, i  then wrote this text "my commit" in <font color="red">**index.txt**</font> file 
+In GUI, i  then wrote this text "my commit" in <font color="blue">**index.txt**</font> file 
 
 With <font color="red">**Git add .**</font> command, I added my file <font color="red">**index.txt**</font> file to be tracked.  and them commited using commit command **commit  -m** "(message)"
 
