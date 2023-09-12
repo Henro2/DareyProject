@@ -40,6 +40,16 @@
 
  - ![Alt text](<images/8 code edited.png>)
 
+- I then created **index.php** in my root folder to test that PHP is coreectly working using super user account account with **sudo -i**
 
+- I edited index.php using nano command and added the Php code , Rebooted apache to take effect 
+
+
+![Alt text](<images/apeche robboted.png>)
+
+
+using my public ip address http://54.80.72.86/ 
+
+![Alt text](images/phppage.png)
 
 
