@@ -52,4 +52,14 @@ using my public ip address http://54.80.72.86/
 
 ![Alt text](images/phppage.png)
 
+-  for me to create a virtual host for my website, i followed the following steps 
 
+- i created a folder in my root called **projectlamp** and gave and took ownership of it with this **command $ sudo chown -R $USER:$USER /var/www/projectlamp**
+
+- with nano command, i edited **projectlamp.conf**
+
+
+
+![Alt text](<images/hello world.png>)
+
+![Alt text](images/hello2.png)
