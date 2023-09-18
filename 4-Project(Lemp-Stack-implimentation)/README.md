@@ -110,12 +110,54 @@ and checking for syntax error was result was ok
 
 - i craeted a PHP file in my root folder called **info.php** using **touch** command and edited with **nano** command and pasted a valid php code inside for text. and saved using CTL+O and CTL+X to exit.
 
+- I change my configuration file **projectLEMP.conf** using **nano** command and added **info.php** before others so it can take precedence over others.
 
 
 
 
 
--  
+
+
+-  Using my public ip address in my browser , I saw the following page: 
+
+
+
+![Alt text](images/phppage.png)
+
+<div style="text-align: center;">
+  <span style="font-size: 20px; font-weight: bold;">STEP 6</span>
+</div>
+
+**Retrieving my data from mysql database with PHP**
+
+-  With this command **CREATE DATABASE mydata;** i created a database called **mydata**
+
+-  I added new user called myuser with this command 
+**mysql>  CREATE USER 'myuser'@'%' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';** to use password.1
+
+![Alt text](images/addinguser.png)
+
+-  with is command, ***GRANT ALL ON example_database.* TO 'myuser'@'%';** . I granted all permission to the new **myuser** and exited mysql.
+
+
+![Alt text](images/userpermission.png)
+
+
+-  I logged in with the new user account using  **mysql -u myuser -p** and inserted the password.
+
+- mysql> **SHOW DATABASES**; this command displayed list of databases including **mydata** i just created. 
+
+
+![Alt text](images/databaselist.png)
+
+
+- I created a file in root folder called **todo_list.php** and iserted the code using **nano** command and edited the code with my database name (mydata) and new user name(myuser)
+
+-  with http://52.23.246.39/todo_list.php , i was able to see the information in my database as shown bellow ;
+
+![Alt text](images/todopagewww.png)
+
+
 
 
 
