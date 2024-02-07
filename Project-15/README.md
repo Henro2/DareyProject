@@ -63,7 +63,7 @@ I tried pinging the private server, and coudnt reach it because it has no intern
 
 ![alt text](<images/Unsaved Image 13.png>)
 
-- Using ssh agent, I connected to the public server and try pinging my private server from there and i got replies as shown bellow. 
+- Using ssh agent, I connected to the public server and try pinging my private server from there and i got replies as shown below. 
 
 
 
